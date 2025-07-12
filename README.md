@@ -1,7 +1,11 @@
+<div align="center">
+
 ## Hello World! 👋 What's up?
 
 My name is **Kauã Silva** and I'm from Brazil.  
 I started learning about programming recently and I'm focusing on growing in the tech area!
+
+</div>
 
 ---
 <div align="center" >
@@ -46,4 +50,10 @@ I started learning about programming recently and I'm focusing on growing in the
 </div>
 
 ---
+<div align="center">
+  
+  ![snake gif](https://github.com/KAUACOMK/KAUACOMK/blob/output/github-snake-dark.svg)
 
+</div>
+
+---
