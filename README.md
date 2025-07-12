@@ -30,11 +30,11 @@ I started learning about programming recently and I'm focusing on growing in the
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 ---
-
+<div flex-box center>
 ### 📊 GitHub Stats
 
 ![Kaua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAUACOMK&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAUACOMK&layout=compact&theme=github_dark)
-
+</div>
 ---
 ---
