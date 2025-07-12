@@ -33,3 +33,7 @@ I started learning about programming recently and I'm focusing on growing in the
 
 ### 📊 GitHub Stats
 
+![Kaua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
+
+---
