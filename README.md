@@ -37,3 +37,4 @@ I started learning about programming recently and I'm focusing on growing in the
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAUACOMK&layout=compact&theme=github_dark)
 
 ---
+![Snake animation](https://github.com/KAUACOMK/KAUACOMK/blob/output/github-contribution-grid-snake.svg)
