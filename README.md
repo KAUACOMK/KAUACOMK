@@ -13,7 +13,7 @@ I started learning about programming recently and I'm focusing on growing in the
   ## 💡 About me
   🇧🇷 **Brazilian**
   
-🧠 Studying Programming and Systems Development  
+🧠 Academic in Systems Analysis and Development  
 🎯 Focus on Full-Stack  
 💻 Currently learning C#/R/HTML/CSS/JS  
 </div>
